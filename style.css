@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    font-family: "Wix Madefor Text", sans-serif;
+}
 .cabecalho {
     background-color: #F8F3DD;
     color: rgb(25, 114, 17);
@@ -38,6 +40,7 @@
 .scentsoul-conteudo{
     width: 35%;
 }
-.scentsou-titulo{
-    
+.scentsoul-titulo{
+    padding: 24px 0;
 }
+

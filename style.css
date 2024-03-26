@@ -21,3 +21,23 @@
     margin: 0 35px;
     font-size: 29px;
 }
+
+.imagem-perfume{
+    width: 15%;
+}
+
+.scentsoul{
+    background-image: linear-gradient(#FFFAE4,#feffded3);
+    color: rgb(7, 82, 19);
+    display: flex;  
+    justify-content: center;        
+    align-items: center;  
+    padding: 30px 0;
+}
+
+.scentsoul-conteudo{
+    width: 35%;
+}
+.scentsou-titulo{
+    
+}

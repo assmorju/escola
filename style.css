@@ -44,3 +44,24 @@ body{
     padding: 24px 0;
 }
 
+.coffe-imagem{
+    width: 120px;
+}
+
+.icones{
+    width: 30px;
+}
+
+.tipos-div{
+   text-align: center;
+}
+
+.tipos-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.tipos-geral{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
